@@ -132,7 +132,7 @@ My research centers on developing **interpretable, efficient, and reproducible m
 <div align="center">
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_PROFILE)
+[![ResearchGate](https://www.researchgate.net/profile/Chinmaya-Palo)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/YOUR_ID)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmayakumarpalo)
 
