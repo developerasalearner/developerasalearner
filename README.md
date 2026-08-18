@@ -1,130 +1,57 @@
 # Chinmaya Kumar Palo
 
-<div align="center">
+**M.Tech researcher — classical machine learning, pattern recognition, explainable AI**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=developerasalearner&color=086dd7&style=flat-square)](https://github.com/developerasalearner)
-[![GitHub followers](https://img.shields.io/github/followers/developerasalearner?style=flat-square&logo=github)](https://github.com/developerasalearner)
-
-**ML Researcher · Explainable AI · Pattern Recognition**
-
-*Postgraduate scholar pursuing rigorous research in interpretable machine learning*
-
-</div>
+Veer Surendra Sai University of Technology (VSSUT), Burla · Odisha, India
 
 ---
 
-## 🎓 Research Profile
+## Research
 
-Postgraduate researcher in **Artificial Intelligence and Machine Learning** at [Veer Surendra Sai University of Technology](https://www.vssut.ac.in), specializing in developing **interpretable, efficient, and reproducible ML algorithms** for real-world applications.
+My work centres on **nearest-neighbour methods** — making them more robust, better calibrated, and more interpretable without giving up the transparency that makes them worth using in the first place.
 
-**Focus:** Pattern recognition, metric learning, explainable AI, and healthcare applications.  
-**Vision:** PhD in Machine Learning with long-term commitment to academic research and open science.
+**STKNN — Stability-weighted k-Nearest Neighbours**
+A k-NN variant that weights neighbours by the stability of their local neighbourhood, improving robustness under label noise. Benchmarked against k-NN, LMNN, and NCA across 15 datasets under clean and noisy conditions.
 
----
+**LCKNN — Locally Credible k-Nearest Neighbours**
+Extends k-NN with a local credibility estimate, so the classifier can express how much confidence a given neighbourhood warrants rather than treating all regions of the feature space alike.
 
-## 🔬 Research Areas
-
-| Area | Interest | Status |
-|------|----------|--------|
-| Classical ML | Pattern Recognition, Metric Learning | Active |
-| Explainable AI | Model Interpretability, Feature Importance | In Progress |
-| Applied AI | Healthcare, Computer Vision | Exploring |
-| Reproducibility | Open-source Implementations | Core |
+**Applied work**
+Metaheuristic feature selection for intrusion detection (NSL-KDD), gradient-boosted risk modelling on expedition survival data, and CNN-based face recognition.
 
 ---
 
-## 📚 Current Research
+## Interests
 
-- **STKNN** — Statistical k-NN framework with theoretical foundations
-- **LCKNN** — Local clustering enhancements for nearest neighbor methods
-- **Healthcare AI Pipeline** — ML for medical diagnosis and prognosis
-- **Metric Learning** — Distance metrics and similarity measure research
-- **Explainable ML** — Interpretable model implementations and analysis
-
----
-
-## 💻 Technical Stack
-
-**Languages:** Python · C · R · SQL
-
-**ML & AI:** Scikit-learn · TensorFlow · PyTorch · Keras
-
-**Data Science:** NumPy · Pandas · Matplotlib · Seaborn
-
-**Vision & NLP:** OpenCV · NLTK
-
-**Tools:** Git · Jupyter · Google Colab · Linux
+- Pattern recognition and metric learning
+- Model interpretability and feature attribution
+- Robustness under label noise and distribution shift
+- Reproducible research and open implementations
 
 ---
 
-## 📊 Research Activity
+## Repositories
 
-<div align="center">
+**[CNNFaceQUEST](https://github.com/developerasalearner/CNNFaceQUEST)** — Face-recognition attendance system. Haar cascade detection feeding a custom CNN classifier, with a MobileNetV2 transfer-learning comparison and automated attendance logging. B.Tech final-year project.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developerasalearner&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc&title_color=086dd7&card_width=500)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developerasalearner&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc&title_color=086dd7&card_width=500)
-
-</div>
+**[cttc-ai-ml-internship](https://github.com/developerasalearner/cttc-ai-ml-internship)** — Coursework and mini-projects from an AI/ML internship at CTTC Bhubaneswar: Python fundamentals through regression, classification, NLP, and computer vision across a dozen datasets.
 
 ---
 
-## 🔗 Academic Network
+## Tools
 
-<div align="center">
-
-[**Google Scholar**](https://scholar.google.com/citations?user=YOUR_ID) · 
-[**ResearchGate**](https://www.researchgate.net/profile/Chinmaya-Palo) · 
-[**ORCID**](https://orcid.org/YOUR_ID) · 
-[**LinkedIn**](https://linkedin.com/in/chinmayakumarpalo)
-
-</div>
+**Languages** Python · C · R · SQL
+**ML** scikit-learn · TensorFlow · Keras · PyTorch
+**Data** NumPy · pandas · Matplotlib · Seaborn
+**Vision & NLP** OpenCV · NLTK
+**Environment** Git · Jupyter · Google Colab · LaTeX · Linux
 
 ---
 
-## 🤝 Collaboration
+## Contact
 
-I'm open to collaborations in:
+[Email](mailto:chinmayakumarpalo.official@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/chinmayakumarpalo) ·
+[ResearchGate](https://www.researchgate.net/profile/Chinmaya-Palo)
 
-- Machine learning algorithm development and theoretical analysis
-- Pattern recognition and metric learning research
-- Healthcare AI and clinical decision support systems
-- Explainable AI and model interpretability
-- Open-source research software and reproducible science
-
-**Interested in collaborating?** [Email me](mailto:chinmayakumarpalo.official@gmail.com) or connect on LinkedIn.
-
----
-
-## 📍 About
-
-**Location:** Odisha, India  
-**Affiliation:** Veer Surendra Sai University of Technology (VSSUT), Burla  
-**Focus:** Research-driven implementations with comprehensive documentation and reproducibility standards.
-
----
-
-<div align="center">
-
-### Building interpretable, efficient, and reproducible machine learning.
-
-**Last Updated:** June 2026
-
-</div>
-
-<!-- 
-NOTES FOR FUTURE UPDATES:
-
-1. ACADEMIC PROFILES:
-   - Replace placeholder URLs with actual Google Scholar, ORCID, ResearchGate profiles
-   - Update affiliations as your academic status changes
-
-2. RESEARCH SECTION:
-   - Add publication links as papers are accepted
-   - Include arXiv preprints and DOIs
-   - Track research milestones and project releases
-
-3. STATISTICS:
-   - GitHub stats update automatically
-   - Monitor contribution patterns and project growth
--->
+Open to collaboration on machine learning algorithm development, metric learning, healthcare and clinical decision support, and reproducible research software.
