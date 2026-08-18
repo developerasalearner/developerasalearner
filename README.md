@@ -74,7 +74,7 @@ Postgraduate researcher in **Artificial Intelligence and Machine Learning** at [
 
 [**Google Scholar**](https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_SCHOLAR_ID) ·
 [**ResearchGate**](https://www.researchgate.net/profile/Chinmaya-Palo) ·
-[**ORCID**](https://orcid.org/REPLACE_WITH_YOUR_ORCID) ·
+[**ORCID**](https://orcid.org/0009-0002-2372-7205) ·
 [**LinkedIn**](https://linkedin.com/in/chinmayakumarpalo)
 
 </div>
