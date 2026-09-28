@@ -2,60 +2,70 @@
 
 <div align="center">
 
+**Machine Learning Researcher · Classical ML · Interpretable Nearest-Neighbour Methods**
+
+*M.Tech (AI & ML), Veer Surendra Sai University of Technology, Burla*
+
 [![Profile Views](https://komarev.com/ghpvc/?username=developerasalearner&color=086dd7&style=flat-square)](https://github.com/developerasalearner)
 [![GitHub followers](https://img.shields.io/github/followers/developerasalearner?style=flat-square&logo=github)](https://github.com/developerasalearner)
-
-**ML Researcher · Explainable AI · Pattern Recognition**
-
-*Postgraduate scholar pursuing rigorous research in interpretable machine learning*
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--2372--7205-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2372-7205)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chinmayakumarpalo.official@gmail.com)
 
 </div>
 
 ---
 
-## 🎓 Research Profile
+## About Me
 
-Postgraduate researcher in **Artificial Intelligence and Machine Learning** at [Veer Surendra Sai University of Technology](https://www.vssut.ac.in), specializing in developing **interpretable, efficient, and reproducible ML algorithms** for real-world applications.
+I am a final-year M.Tech student in Artificial Intelligence and Machine Learning at **VSSUT Burla**, working under the supervision of **Prof. Himansu Sekhar Behera** in machine learning and pattern recognition.
 
-**Focus:** Pattern recognition, metric learning, explainable AI, and healthcare applications.
-**Vision:** PhD in Machine Learning with long-term commitment to academic research and open science.
-
----
-
-## 🔬 Research Areas
-
-| Area | Interest | Status |
-|------|----------|--------|
-| Classical ML | Pattern Recognition, Metric Learning | Active |
-| Explainable AI | Model Interpretability, Feature Importance | In Progress |
-| Applied AI | Healthcare, Computer Vision | Exploring |
-| Reproducibility | Open-source Implementations | Core |
+My work sits in **classical machine learning**: I study well-established algorithms closely, find where they break down, and design principled fixes that stay **interpretable** and **computationally tractable**.
 
 ---
 
-## 📚 Current Research
+## Research Philosophy
 
-- **STKNN** — Stability-weighted k-NN framework with theoretical foundations
-- **LCKNN** — Local credibility enhancements for nearest neighbor methods
-- **Healthcare AI Pipeline** — ML for medical diagnosis and prognosis
-- **Metric Learning** — Distance metrics and similarity measure research
-- **Explainable ML** — Interpretable model implementations and analysis
+| Principle | What it means in my work |
+|-----------|--------------------------|
+| **Find the flaw first** | Every method starts from a concrete, demonstrable weakness in an existing algorithm. |
+| **Interpretability by design** | Decisions should be explainable through quantities a practitioner can inspect. |
+| **Tractability over heavy optimisation** | Prefer lightweight weighting schemes to costly parametric metric learning. |
+| **Honest evaluation** | Multi-dataset benchmarks, noisy conditions, ablations, and statistical testing. |
+| **Reproducibility** | Code and configurations released alongside the research. |
 
 ---
 
-## 💻 Technical Stack
+## Current Research
 
-| | |
-|---|---|
+| Work | What it does | Code |
+|------|--------------|------|
+| **STKNN** — Stability-weighted k-NN | Weights neighbours by their stability, an interpretable and lightweight alternative to learned distance metrics. | [Repo](https://github.com/developerasalearner/STKNN) <!-- EDIT --> |
+| **LCKNN** — Locally Credible k-NN | Estimates the local credibility of neighbours for adaptive weighting without heavy optimisation. | [Repo](https://github.com/developerasalearner/LCKNN) <!-- EDIT --> |
+| **Metaheuristic Feature Selection** | Applies optimisers such as GA, PSO, GWO and FOA to feature selection in ML pipelines (e.g., intrusion detection, risk prediction). | [Repo](To be Updated) <!-- EDIT --> |
+
+---
+
+## Technical Stack
+
+| Area | Tools |
+|------|-------|
 | **Languages** | Python · C · R · SQL |
-| **ML & AI** | Scikit-learn · TensorFlow · PyTorch · Keras |
-| **Data Science** | NumPy · Pandas · Matplotlib · Seaborn |
-| **Vision & NLP** | OpenCV · NLTK |
+| **Machine Learning** | scikit-learn · XGBoost · PyTorch · TensorFlow · Keras |
+| **Data & Statistics** | NumPy · Pandas · SciPy · Matplotlib · Seaborn |
+| **Optimisation** | Metaheuristics (GA, PSO, GWO, FOA) |
+| **Research Writing** | LaTeX |
 | **Tools** | Git · Jupyter · Google Colab · Linux |
 
 ---
 
-## 📊 Research Activity
+## Writing
+
+I run a technical blog on data science, machine learning, and tech research, and welcome guest contributions.
+**Blog:** (https://chinmayakumarpalo.netlify.app/writing) <!-- EDIT -->
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
@@ -68,43 +78,30 @@ Postgraduate researcher in **Artificial Intelligence and Machine Learning** at [
 
 ---
 
-## 🔗 Academic Network
+## Collaboration
+
+I am open to collaboration on:
+
+- Design and analysis of classical ML algorithms, especially nearest-neighbour methods
+- Robust and interpretable classification under noise and imbalance
+- Metaheuristic optimisation in ML pipelines
+- Open-source, reproducible research software
+
+**Get in touch:** [Email](mailto:chinmayakumarpalo.official@gmail.com) · [LinkedIn](https://linkedin.com/in/chinmayakumarpalo)
+
+---
+
+## Academic Profiles
 
 <div align="center">
 
-[**Google Scholar**](https://scholar.google.com/citations?user=REPLACE_WITH_YOUR_SCHOLAR_ID) ·
+[**Google Scholar**](https://scholar.google.com/citations?user=SeT45eEAAAAJ&hl=en) ·
 [**ResearchGate**](https://www.researchgate.net/profile/Chinmaya-Palo) ·
 [**ORCID**](https://orcid.org/0009-0002-2372-7205) ·
 [**LinkedIn**](https://linkedin.com/in/chinmayakumarpalo)
 
-</div>
+**Location:** Odisha, India · **Affiliation:** VSSUT Burla
 
----
-
-## 🤝 Collaboration
-
-I'm open to collaborations in:
-
-- Machine learning algorithm development and theoretical analysis
-- Pattern recognition and metric learning research
-- Healthcare AI and clinical decision support systems
-- Explainable AI and model interpretability
-- Open-source research software and reproducible science
-
-**Interested in collaborating?** [Email me](mailto:chinmayakumarpalo.official@gmail.com) or connect on LinkedIn.
-
----
-
-## 📍 About
-
-**Location:** Odisha, India
-**Affiliation:** Veer Surendra Sai University of Technology (VSSUT), Burla
-**Focus:** Research-driven implementations with comprehensive documentation and reproducibility standards.
-
----
-
-<div align="center">
-
-### Building interpretable, efficient, and reproducible machine learning.
+*Finding the flaws in classical learning algorithms — and fixing them transparently.*
 
 </div>
